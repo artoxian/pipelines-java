@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ScottXRobertson/pipelines-java/_apis/build/status/artoxian.pipelines-java?branchName=master)](https://dev.azure.com/ScottXRobertson/pipelines-java/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
